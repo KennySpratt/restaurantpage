@@ -1,3 +1,6 @@
+![image](https://github.com/KennySpratt/restaurantpage/assets/82186300/86c7c08b-f2ba-4869-8e14-42903f84a180)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
